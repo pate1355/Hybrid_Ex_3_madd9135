@@ -16,9 +16,9 @@ This Dart console application demonstrates the usage of Dart `List` and `Map` co
 - [Dart SDK](https://dart.dev/get-dart) installed on your machine.
 - [Visual Studio Code](https://code.visualstudio.com/) or any text editor to write and run the Dart code.
 
-### Installation
+## Installation
 
-## Clone the repository:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/pate1355/Hybrid_Ex_3_madd9135.git
